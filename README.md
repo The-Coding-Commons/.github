@@ -1,8 +1,6 @@
----
-
 ### About Coding Commons
 
-**Coding Commons** is a collaborative, inclusive, and international programming community dedicated to fostering creativity, innovation, and education in software development. Based in **the United Kingdom**, with a growing operational presence in **Sweden** and **Czechia**, Coding Commons exists to connect developers, learners, educators, and enthusiasts from around the world in a shared mission to make coding more accessible, enjoyable, and impactful.
+**Coding Commons** is a collaborative, inclusive, and international programming community dedicated to fostering creativity, innovation, and education in software development. Based in the **United Kingdom**, with a growing operational presence in **Sweden** and **Czechia**, Coding Commons exists to connect developers, learners, educators, and enthusiasts from around the world in a shared mission to make coding more accessible, enjoyable, and impactful.
 
 We operate as a non-profit, community-led initiative that brings together individuals from a variety of technical backgrounds, from students and hobbyists to industry professionals and educators. Through our platform, we aim to bridge the gap between learning and real-world application by providing members with opportunities to collaborate, share knowledge, build meaningful projects, and grow both individually and collectively.
 
